@@ -1,0 +1,3 @@
+Name: Marina
+Age: 29
+Favourite color: Orange
