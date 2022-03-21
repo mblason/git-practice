@@ -1,3 +1,4 @@
 Name: Marina
 Age: 29
+Birthday: 10/02/1993
 Favourite color: Orange
